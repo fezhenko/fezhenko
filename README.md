@@ -16,7 +16,7 @@ I build backend services on the JVM: REST APIs and microservices with Spring Boo
 
 | Project | What it shows |
 |---|---|
-| [auction_project](https://github.com/fezhenko/auction_project) | Online auction platform: three Spring Boot microservices behind a JWT-secured API gateway, OpenFeign between services, PostgreSQL with Flyway migrations, scheduled auction lifecycle and balance settlement. |
+| [auction_project](https://github.com/fezhenko/auction_project) | Online auction platform: three Spring Boot microservices behind a JWT-secured API gateway, OpenFeign between services, PostgreSQL with Flyway migrations, scheduled auction lifecycle. |
 | [kafka-example](https://github.com/fezhenko/kafka-example) | Apache Kafka examples in Java: producers and consumers (keyed records, callbacks, cooperative rebalancing, graceful shutdown), a Wikimedia → Kafka → OpenSearch pipeline, and a Kafka Streams app with windowed counts. |
 | [investment-planner](https://github.com/fezhenko/investment-planner) | Investment planner: Kotlin (Ktor) REST API with a Vue 3 + TypeScript front end. |
 | [neetcode-submissions](https://github.com/fezhenko/neetcode-submissions) | Data structures & algorithms practice in Java, synced from NeetCode. |
